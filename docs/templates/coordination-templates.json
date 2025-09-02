@@ -1,0 +1,195 @@
+{
+  "issue-coordination": {
+    "description": "Template for coordinating parallel issue creation",
+    "template": {
+      "command": "issues-from-mvp",
+      "start_time": "ISO8601_TIMESTAMP",
+      "total_issues": 0,
+      "milestones": {},
+      "assignments": {},
+      "progress": {},
+      "created_issues": {},
+      "dependencies_to_apply": [],
+      "errors": []
+    },
+    "example_assignment": {
+      "creator-1": ["issue-key-1", "issue-key-2", "issue-key-3"],
+      "creator-2": ["issue-key-4", "issue-key-5", "issue-key-6"]
+    },
+    "example_progress": {
+      "creator-1": {
+        "completed": 0,
+        "status": "assigned",
+        "issues": []
+      }
+    },
+    "example_created_issue": {
+      "issue-key-1": {
+        "number": 42,
+        "title": "Set up Docker Compose with all services",
+        "milestone": "Phase 1: Infrastructure Foundation",
+        "labels": ["type:foundation", "layer:infrastructure"],
+        "url": "https://github.com/owner/repo/issues/42"
+      }
+    }
+  },
+  
+  "review-coordination": {
+    "description": "Template for coordinating parallel PR review checks",
+    "template": {
+      "command": "review-pr",
+      "pr_number": 0,
+      "review_start": "ISO8601_TIMESTAMP",
+      "branch": "",
+      "checks": {
+        "architecture": {"status": "pending", "critical": 0, "warnings": 0, "suggestions": 0},
+        "tech-guides": {"status": "pending", "critical": 0, "warnings": 0, "suggestions": 0},
+        "testing": {"status": "pending", "critical": 0, "warnings": 0, "suggestions": 0, "coverage": 0},
+        "code-quality": {"status": "pending", "critical": 0, "warnings": 0, "suggestions": 0},
+        "security": {"status": "pending", "critical": 0, "warnings": 0, "suggestions": 0},
+        "documentation": {"status": "pending", "critical": 0, "warnings": 0, "suggestions": 0}
+      },
+      "overall_status": "pending",
+      "review_time_seconds": 0
+    },
+    "status_values": ["pending", "in-progress", "complete", "error"],
+    "overall_status_values": ["pending", "approve", "approve-with-suggestions", "changes-required", "major-concerns"]
+  },
+  
+  "arch-coordination": {
+    "description": "Template for coordinating parallel architecture analysis",
+    "template": {
+      "command": "arch-from-code",
+      "project_name": "",
+      "analysis_start": "ISO8601_TIMESTAMP",
+      "project_type": "",
+      "domains": {
+        "backend": {
+          "status": "pending",
+          "main_technology": "",
+          "patterns_found": 0,
+          "decisions_documented": 0,
+          "output_file": ""
+        },
+        "frontend": {
+          "status": "pending",
+          "main_technology": "",
+          "patterns_found": 0,
+          "decisions_documented": 0,
+          "output_file": ""
+        },
+        "data": {
+          "status": "pending",
+          "main_technology": "",
+          "patterns_found": 0,
+          "decisions_documented": 0,
+          "output_file": ""
+        },
+        "infrastructure": {
+          "status": "pending",
+          "main_technology": "",
+          "patterns_found": 0,
+          "decisions_documented": 0,
+          "output_file": ""
+        },
+        "security": {
+          "status": "pending",
+          "main_technology": "",
+          "patterns_found": 0,
+          "decisions_documented": 0,
+          "output_file": ""
+        },
+        "integration": {
+          "status": "pending",
+          "main_technology": "",
+          "patterns_found": 0,
+          "decisions_documented": 0,
+          "output_file": ""
+        }
+      },
+      "git_insights": {
+        "initial_commit": "",
+        "major_refactors": [],
+        "dependency_timeline": [],
+        "version_milestones": []
+      },
+      "quality_metrics": {
+        "consistency": 0,
+        "documentation": 0,
+        "test_coverage": 0,
+        "security": 0
+      },
+      "clarifications_needed": []
+    }
+  },
+  
+  "tech-guide-coordination": {
+    "description": "Template for coordinating parallel tech guide creation",
+    "template": {
+      "command": "create-tech-guides",
+      "creation_start": "ISO8601_TIMESTAMP",
+      "total_technologies": 0,
+      "assignments": {},
+      "progress": {},
+      "completed_guides": [],
+      "errors": []
+    },
+    "example_assignment": {
+      "creator-1": ["FastAPI", "PostgreSQL"],
+      "creator-2": ["React", "TypeScript"],
+      "creator-3": ["Docker", "Redis"],
+      "creator-4": ["JWT", "pytest"]
+    },
+    "example_progress": {
+      "creator-1": {
+        "completed": 0,
+        "status": "assigned",
+        "technologies": ["FastAPI", "PostgreSQL"],
+        "current": "FastAPI"
+      }
+    }
+  },
+  
+  "test-coordination": {
+    "description": "Template for coordinating parallel test writing",
+    "template": {
+      "command": "write-tests",
+      "start_time": "ISO8601_TIMESTAMP",
+      "components": [],
+      "assignments": {},
+      "progress": {},
+      "coverage_reports": {},
+      "errors": []
+    },
+    "example_assignment": {
+      "test-writer-1": ["auth/login.py", "auth/logout.py"],
+      "test-writer-2": ["api/users.py", "api/profile.py"],
+      "test-writer-3": ["components/UserForm.tsx", "components/UserList.tsx"]
+    },
+    "example_progress": {
+      "test-writer-1": {
+        "component": "auth/login.py",
+        "tests_written": 8,
+        "coverage": 92,
+        "status": "complete",
+        "test_file": "tests/test_auth_login.py"
+      }
+    }
+  },
+  
+  "general-coordination": {
+    "description": "Generic template for any parallel coordination",
+    "template": {
+      "command": "",
+      "start_time": "ISO8601_TIMESTAMP",
+      "total_tasks": 0,
+      "parallel_agents": 0,
+      "assignments": {},
+      "progress": {},
+      "results": {},
+      "errors": [],
+      "completion_time": null,
+      "time_saved_percentage": null
+    }
+  }
+}
