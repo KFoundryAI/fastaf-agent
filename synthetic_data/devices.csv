@@ -1,0 +1,201 @@
+device_id,client,client_type,location,model,toner_model,toner_yield,is_ricoh,integrated_fastaf,base_daily_pages
+KROGER-1000,Kroger,retail,Kroger Site 1,Ricoh IM C3000,RICOH-C3000-BK,12000,True,False,805.68
+KROGER-1001,Kroger,retail,Kroger Site 2,Ricoh IM C3000,RICOH-C3000-BK,12000,True,False,586.51
+KROGER-1002,Kroger,retail,Kroger Site 3,HP LaserJet M607,HP-37A-BK,11000,False,True,461.64
+KROGER-1003,Kroger,retail,Kroger Site 4,Ricoh MP 501SPF,RICOH-501-BK,10000,True,False,684.5
+KROGER-1004,Kroger,retail,Kroger Site 5,Ricoh MP 501SPF,RICOH-501-BK,10000,True,False,310.43
+KROGER-1005,Kroger,retail,Kroger Site 6,Ricoh MP 501SPF,RICOH-501-BK,10000,True,False,310.43
+KROGER-1006,Kroger,retail,Kroger Site 7,Ricoh IM C3000,RICOH-C3000-BK,12000,True,False,1384.27
+KROGER-1007,Kroger,retail,Kroger Site 8,Ricoh IM C3000,RICOH-C3000-BK,12000,True,False,922.46
+KROGER-1008,Kroger,retail,Kroger Site 9,Canon imageRUNNER 4551i,CANON-4551-BK,14000,False,True,497.0
+KROGER-1009,Kroger,retail,Kroger Site 10,Ricoh IM C3000,RICOH-C3000-BK,12000,True,False,824.36
+KROGER-1010,Kroger,retail,Kroger Site 11,Ricoh IM C3000,RICOH-C3000-BK,12000,True,False,498.51
+KROGER-1011,Kroger,retail,Kroger Site 12,Ricoh IM C3000,RICOH-C3000-BK,12000,True,False,497.93
+KROGER-1012,Kroger,retail,Kroger Site 13,Ricoh MP 501SPF,RICOH-501-BK,10000,True,False,384.6
+KROGER-1013,Kroger,retail,Kroger Site 14,Ricoh MP 501SPF,RICOH-501-BK,10000,True,False,145.82
+KROGER-1014,Kroger,retail,Kroger Site 15,Ricoh IM C3000,RICOH-C3000-BK,12000,True,False,265.3
+KROGER-1015,Kroger,retail,Kroger Site 16,Ricoh MP 501SPF,RICOH-501-BK,10000,True,False,267.81
+KROGER-1016,Kroger,retail,Kroger Site 17,Canon imageRUNNER 4551i,CANON-4551-BK,14000,False,True,378.76
+KROGER-1017,Kroger,retail,Kroger Site 18,Ricoh MP 501SPF,RICOH-501-BK,10000,True,False,397.32
+KROGER-1018,Kroger,retail,Kroger Site 19,Canon imageRUNNER 4551i,CANON-4551-BK,14000,False,True,399.14
+KROGER-1019,Kroger,retail,Kroger Site 20,HP LaserJet M607,HP-37A-BK,11000,False,True,182.69
+KROGER-1020,Kroger,retail,Kroger Site 21,Ricoh IM C3000,RICOH-C3000-BK,12000,True,False,1307.86
+KROGER-1021,Kroger,retail,Kroger Site 22,Ricoh MP 501SPF,RICOH-501-BK,10000,True,False,311.6
+KROGER-1022,Kroger,retail,Kroger Site 23,Canon imageRUNNER 4551i,CANON-4551-BK,14000,False,True,650.08
+KROGER-1023,Kroger,retail,Kroger Site 24,HP LaserJet M607,HP-37A-BK,11000,False,True,181.67
+KROGER-1024,Kroger,retail,Kroger Site 25,HP LaserJet M607,HP-37A-BK,11000,False,True,269.98
+KROGER-1025,Kroger,retail,Kroger Site 26,Ricoh MP 501SPF,RICOH-501-BK,10000,True,False,362.58
+KROGER-1026,Kroger,retail,Kroger Site 27,Ricoh MP 501SPF,RICOH-501-BK,10000,True,False,205.49
+KROGER-1027,Kroger,retail,Kroger Site 28,HP LaserJet M607,HP-37A-BK,11000,False,True,408.46
+KROGER-1028,Kroger,retail,Kroger Site 29,Ricoh IM C3000,RICOH-C3000-BK,12000,True,False,465.45
+KROGER-1029,Kroger,retail,Kroger Site 30,Ricoh IM C3000,RICOH-C3000-BK,12000,True,False,543.2
+KROGER-1030,Kroger,retail,Kroger Site 31,Canon imageRUNNER 4551i,CANON-4551-BK,14000,False,True,465.2
+KROGER-1031,Kroger,retail,Kroger Site 32,Ricoh IM C3000,RICOH-C3000-BK,12000,True,False,1586.78
+KROGER-1032,Kroger,retail,Kroger Site 33,HP LaserJet M607,HP-37A-BK,11000,False,True,342.84
+KROGER-1033,Kroger,retail,Kroger Site 34,HP LaserJet M607,HP-37A-BK,11000,False,True,214.3
+KROGER-1034,Kroger,retail,Kroger Site 35,HP LaserJet M607,HP-37A-BK,11000,False,True,499.43
+KROGER-1035,Kroger,retail,Kroger Site 36,Ricoh IM C3000,RICOH-C3000-BK,12000,True,False,341.35
+KROGER-1036,Kroger,retail,Kroger Site 37,Canon imageRUNNER 4551i,CANON-4551-BK,14000,False,True,697.68
+KROGER-1037,Kroger,retail,Kroger Site 38,Ricoh IM C3000,RICOH-C3000-BK,12000,True,False,235.92
+KROGER-1038,Kroger,retail,Kroger Site 39,Canon imageRUNNER 4551i,CANON-4551-BK,14000,False,True,323.51
+KROGER-1039,Kroger,retail,Kroger Site 40,Ricoh IM C3000,RICOH-C3000-BK,12000,True,False,693.5
+KROGER-1040,Kroger,retail,Kroger Site 41,HP LaserJet M607,HP-37A-BK,11000,False,True,480.89
+KROGER-1041,Kroger,retail,Kroger Site 42,HP LaserJet M607,HP-37A-BK,11000,False,True,372.58
+KROGER-1042,Kroger,retail,Kroger Site 43,Ricoh MP 501SPF,RICOH-501-BK,10000,True,False,327.43
+KROGER-1043,Kroger,retail,Kroger Site 44,Ricoh IM C3000,RICOH-C3000-BK,12000,True,False,540.65
+KROGER-1044,Kroger,retail,Kroger Site 45,Ricoh IM C3000,RICOH-C3000-BK,12000,True,False,300.08
+KROGER-1045,Kroger,retail,Kroger Site 46,Ricoh MP 501SPF,RICOH-501-BK,10000,True,False,249.48
+KROGER-1046,Kroger,retail,Kroger Site 47,HP LaserJet M607,HP-37A-BK,11000,False,True,280.35
+KROGER-1047,Kroger,retail,Kroger Site 48,Ricoh IM C3000,RICOH-C3000-BK,12000,True,False,1066.23
+KROGER-1048,Kroger,retail,Kroger Site 49,Ricoh MP 501SPF,RICOH-501-BK,10000,True,False,402.6
+KROGER-1049,Kroger,retail,Kroger Site 50,Ricoh IM C3000,RICOH-C3000-BK,12000,True,False,260.29
+KROGER-1050,Kroger,retail,Kroger Site 1,Canon imageRUNNER 4551i,CANON-4551-BK,14000,False,True,739.05
+KROGER-1051,Kroger,retail,Kroger Site 2,HP LaserJet M607,HP-37A-BK,11000,False,True,290.05
+KROGER-1052,Kroger,retail,Kroger Site 3,Canon imageRUNNER 4551i,CANON-4551-BK,14000,False,True,448.03
+KROGER-1053,Kroger,retail,Kroger Site 4,HP LaserJet M607,HP-37A-BK,11000,False,True,454.22
+KROGER-1054,Kroger,retail,Kroger Site 5,Ricoh MP 501SPF,RICOH-501-BK,10000,True,False,548.55
+KROGER-1055,Kroger,retail,Kroger Site 6,HP LaserJet M607,HP-37A-BK,11000,False,True,524.48
+KROGER-1056,Kroger,retail,Kroger Site 7,HP LaserJet M607,HP-37A-BK,11000,False,True,236.44
+KROGER-1057,Kroger,retail,Kroger Site 8,Ricoh MP 501SPF,RICOH-501-BK,10000,True,False,300.12
+KROGER-1058,Kroger,retail,Kroger Site 9,HP LaserJet M607,HP-37A-BK,11000,False,True,400.37
+KROGER-1059,Kroger,retail,Kroger Site 10,Ricoh IM C3000,RICOH-C3000-BK,12000,True,False,1023.62
+KROGER-1060,Kroger,retail,Kroger Site 11,Ricoh MP 501SPF,RICOH-501-BK,10000,True,False,278.02
+KROGER-1061,Kroger,retail,Kroger Site 12,Ricoh MP 501SPF,RICOH-501-BK,10000,True,False,317.28
+KROGER-1062,Kroger,retail,Kroger Site 13,Ricoh MP 501SPF,RICOH-501-BK,10000,True,False,209.66
+KROGER-1063,Kroger,retail,Kroger Site 14,Canon imageRUNNER 4551i,CANON-4551-BK,14000,False,True,345.58
+KROGER-1064,Kroger,retail,Kroger Site 15,Canon imageRUNNER 4551i,CANON-4551-BK,14000,False,True,943.49
+KROGER-1065,Kroger,retail,Kroger Site 16,HP LaserJet M607,HP-37A-BK,11000,False,True,635.01
+KROGER-1066,Kroger,retail,Kroger Site 17,Ricoh MP 501SPF,RICOH-501-BK,10000,True,False,333.93
+KROGER-1067,Kroger,retail,Kroger Site 18,HP LaserJet M607,HP-37A-BK,11000,False,True,541.81
+KROGER-1068,Kroger,retail,Kroger Site 19,Ricoh IM C3000,RICOH-C3000-BK,12000,True,False,753.06
+KROGER-1069,Kroger,retail,Kroger Site 20,Ricoh MP 501SPF,RICOH-501-BK,10000,True,False,258.02
+KROGER-1070,Kroger,retail,Kroger Site 21,Ricoh IM C3000,RICOH-C3000-BK,12000,True,False,752.97
+KROGER-1071,Kroger,retail,Kroger Site 22,HP LaserJet M607,HP-37A-BK,11000,False,True,689.14
+KROGER-1072,Kroger,retail,Kroger Site 23,Canon imageRUNNER 4551i,CANON-4551-BK,14000,False,True,617.34
+KROGER-1073,Kroger,retail,Kroger Site 24,HP LaserJet M607,HP-37A-BK,11000,False,True,697.44
+KROGER-1074,Kroger,retail,Kroger Site 25,Ricoh IM C3000,RICOH-C3000-BK,12000,True,False,169.6
+KROGER-1075,Kroger,retail,Kroger Site 26,Ricoh MP 501SPF,RICOH-501-BK,10000,True,False,499.29
+KROGER-1076,Kroger,retail,Kroger Site 27,HP LaserJet M607,HP-37A-BK,11000,False,True,358.7
+KROGER-1077,Kroger,retail,Kroger Site 28,Ricoh MP 501SPF,RICOH-501-BK,10000,True,False,301.5
+KROGER-1078,Kroger,retail,Kroger Site 29,Canon imageRUNNER 4551i,CANON-4551-BK,14000,False,True,658.0
+KROGER-1079,Kroger,retail,Kroger Site 30,Canon imageRUNNER 4551i,CANON-4551-BK,14000,False,True,232.65
+KROGER-1080,Kroger,retail,Kroger Site 31,Canon imageRUNNER 4551i,CANON-4551-BK,14000,False,True,563.12
+KROGER-1081,Kroger,retail,Kroger Site 32,Ricoh MP 501SPF,RICOH-501-BK,10000,True,False,405.06
+KROGER-1082,Kroger,retail,Kroger Site 33,HP LaserJet M607,HP-37A-BK,11000,False,True,670.74
+KROGER-1083,Kroger,retail,Kroger Site 34,Ricoh MP 501SPF,RICOH-501-BK,10000,True,False,273.17
+KROGER-1084,Kroger,retail,Kroger Site 35,Ricoh MP 501SPF,RICOH-501-BK,10000,True,False,239.73
+KROGER-1085,Kroger,retail,Kroger Site 36,HP LaserJet M607,HP-37A-BK,11000,False,True,275.21
+KROGER-1086,Kroger,retail,Kroger Site 37,Canon imageRUNNER 4551i,CANON-4551-BK,14000,False,True,993.29
+KROGER-1087,Kroger,retail,Kroger Site 38,Canon imageRUNNER 4551i,CANON-4551-BK,14000,False,True,740.78
+KROGER-1088,Kroger,retail,Kroger Site 39,HP LaserJet M607,HP-37A-BK,11000,False,True,271.76
+KROGER-1089,Kroger,retail,Kroger Site 40,Ricoh MP 501SPF,RICOH-501-BK,10000,True,False,434.54
+KROGER-1090,Kroger,retail,Kroger Site 41,Ricoh MP 501SPF,RICOH-501-BK,10000,True,False,360.33
+KROGER-1091,Kroger,retail,Kroger Site 42,Canon imageRUNNER 4551i,CANON-4551-BK,14000,False,True,1020.09
+KROGER-1092,Kroger,retail,Kroger Site 43,Ricoh IM C3000,RICOH-C3000-BK,12000,True,False,442.44
+KROGER-1093,Kroger,retail,Kroger Site 44,Ricoh IM C3000,RICOH-C3000-BK,12000,True,False,533.52
+KROGER-1094,Kroger,retail,Kroger Site 45,Ricoh IM C3000,RICOH-C3000-BK,12000,True,False,516.6
+KROGER-1095,Kroger,retail,Kroger Site 46,Ricoh MP 501SPF,RICOH-501-BK,10000,True,False,178.53
+KROGER-1096,Kroger,retail,Kroger Site 47,Ricoh MP 501SPF,RICOH-501-BK,10000,True,False,394.09
+KROGER-1097,Kroger,retail,Kroger Site 48,Canon imageRUNNER 4551i,CANON-4551-BK,14000,False,True,716.12
+KROGER-1098,Kroger,retail,Kroger Site 49,Ricoh IM C3000,RICOH-C3000-BK,12000,True,False,630.1
+KROGER-1099,Kroger,retail,Kroger Site 50,Canon imageRUNNER 4551i,CANON-4551-BK,14000,False,True,558.93
+KROGER-1100,Kroger,retail,Kroger Site 1,Canon imageRUNNER 4551i,CANON-4551-BK,14000,False,True,309.71
+KROGER-1101,Kroger,retail,Kroger Site 2,Canon imageRUNNER 4551i,CANON-4551-BK,14000,False,True,509.28
+KROGER-1102,Kroger,retail,Kroger Site 3,HP LaserJet M607,HP-37A-BK,11000,False,True,295.63
+KROGER-1103,Kroger,retail,Kroger Site 4,Ricoh IM C3000,RICOH-C3000-BK,12000,True,False,420.81
+KROGER-1104,Kroger,retail,Kroger Site 5,Ricoh IM C3000,RICOH-C3000-BK,12000,True,False,579.8
+KROGER-1105,Kroger,retail,Kroger Site 6,HP LaserJet M607,HP-37A-BK,11000,False,True,413.7
+KROGER-1106,Kroger,retail,Kroger Site 7,HP LaserJet M607,HP-37A-BK,11000,False,True,806.02
+KROGER-1107,Kroger,retail,Kroger Site 8,Ricoh IM C3000,RICOH-C3000-BK,12000,True,False,685.82
+KROGER-1108,Kroger,retail,Kroger Site 9,HP LaserJet M607,HP-37A-BK,11000,False,True,387.31
+KROGER-1109,Kroger,retail,Kroger Site 10,Canon imageRUNNER 4551i,CANON-4551-BK,14000,False,True,605.53
+KROGER-1110,Kroger,retail,Kroger Site 11,Ricoh MP 501SPF,RICOH-501-BK,10000,True,False,145.46
+KROGER-1111,Kroger,retail,Kroger Site 12,Canon imageRUNNER 4551i,CANON-4551-BK,14000,False,True,620.22
+KROGER-1112,Kroger,retail,Kroger Site 13,Ricoh IM C3000,RICOH-C3000-BK,12000,True,False,647.71
+KROGER-1113,Kroger,retail,Kroger Site 14,HP LaserJet M607,HP-37A-BK,11000,False,True,1045.01
+KROGER-1114,Kroger,retail,Kroger Site 15,Ricoh MP 501SPF,RICOH-501-BK,10000,True,False,316.32
+KROGER-1115,Kroger,retail,Kroger Site 16,Ricoh IM C3000,RICOH-C3000-BK,12000,True,False,730.77
+KROGER-1116,Kroger,retail,Kroger Site 17,HP LaserJet M607,HP-37A-BK,11000,False,True,339.58
+KROGER-1117,Kroger,retail,Kroger Site 18,Ricoh MP 501SPF,RICOH-501-BK,10000,True,False,203.86
+KROGER-1118,Kroger,retail,Kroger Site 19,Ricoh MP 501SPF,RICOH-501-BK,10000,True,False,576.86
+KROGER-1119,Kroger,retail,Kroger Site 20,HP LaserJet M607,HP-37A-BK,11000,False,True,483.81
+LEX-1120,Lex & Co,law,Lex & Co Site 1,Ricoh MP 501SPF,RICOH-501-BK,10000,True,True,633.08
+LEX-1121,Lex & Co,law,Lex & Co Site 2,Ricoh IM C3000,RICOH-C3000-BK,12000,True,True,512.83
+LEX-1122,Lex & Co,law,Lex & Co Site 3,HP LaserJet M607,HP-37A-BK,11000,False,True,833.72
+LEX-1123,Lex & Co,law,Lex & Co Site 4,Canon imageRUNNER 4551i,CANON-4551-BK,14000,False,True,400.9
+LEX-1124,Lex & Co,law,Lex & Co Site 5,Ricoh IM C3000,RICOH-C3000-BK,12000,True,True,1083.63
+LEX-1125,Lex & Co,law,Lex & Co Site 6,Ricoh IM C3000,RICOH-C3000-BK,12000,True,True,2416.0
+LEX-1126,Lex & Co,law,Lex & Co Site 7,HP LaserJet M607,HP-37A-BK,11000,False,True,283.98
+LEX-1127,Lex & Co,law,Lex & Co Site 8,HP LaserJet M607,HP-37A-BK,11000,False,True,343.71
+LEX-1128,Lex & Co,law,Lex & Co Site 9,Ricoh MP 501SPF,RICOH-501-BK,10000,True,True,463.81
+LEX-1129,Lex & Co,law,Lex & Co Site 10,Ricoh IM C3000,RICOH-C3000-BK,12000,True,True,628.23
+LEX-1130,Lex & Co,law,Lex & Co Site 11,Ricoh MP 501SPF,RICOH-501-BK,10000,True,True,220.71
+LEX-1131,Lex & Co,law,Lex & Co Site 12,Ricoh IM C3000,RICOH-C3000-BK,12000,True,True,836.24
+LEX-1132,Lex & Co,law,Lex & Co Site 13,Ricoh IM C3000,RICOH-C3000-BK,12000,True,True,475.08
+LEX-1133,Lex & Co,law,Lex & Co Site 14,Canon imageRUNNER 4551i,CANON-4551-BK,14000,False,True,1023.96
+LEX-1134,Lex & Co,law,Lex & Co Site 15,Ricoh IM C3000,RICOH-C3000-BK,12000,True,True,510.26
+LEX-1135,Lex & Co,law,Lex & Co Site 16,Ricoh MP 501SPF,RICOH-501-BK,10000,True,True,890.79
+LEX-1136,Lex & Co,law,Lex & Co Site 17,Ricoh MP 501SPF,RICOH-501-BK,10000,True,True,311.74
+LEX-1137,Lex & Co,law,Lex & Co Site 18,Canon imageRUNNER 4551i,CANON-4551-BK,14000,False,True,687.88
+LEX-1138,Lex & Co,law,Lex & Co Site 19,Ricoh MP 501SPF,RICOH-501-BK,10000,True,True,639.52
+LEX-1139,Lex & Co,law,Lex & Co Site 20,HP LaserJet M607,HP-37A-BK,11000,False,True,254.87
+LEX-1140,Lex & Co,law,Lex & Co Site 21,Canon imageRUNNER 4551i,CANON-4551-BK,14000,False,True,905.39
+LEX-1141,Lex & Co,law,Lex & Co Site 22,Ricoh MP 501SPF,RICOH-501-BK,10000,True,True,798.59
+LEX-1142,Lex & Co,law,Lex & Co Site 23,Ricoh MP 501SPF,RICOH-501-BK,10000,True,True,215.14
+LEX-1143,Lex & Co,law,Lex & Co Site 24,HP LaserJet M607,HP-37A-BK,11000,False,True,481.89
+LEX-1144,Lex & Co,law,Lex & Co Site 25,Canon imageRUNNER 4551i,CANON-4551-BK,14000,False,True,920.19
+LEX-1145,Lex & Co,law,Lex & Co Site 26,HP LaserJet M607,HP-37A-BK,11000,False,True,630.47
+LEX-1146,Lex & Co,law,Lex & Co Site 27,Canon imageRUNNER 4551i,CANON-4551-BK,14000,False,True,435.36
+LEX-1147,Lex & Co,law,Lex & Co Site 28,Canon imageRUNNER 4551i,CANON-4551-BK,14000,False,True,417.55
+LEX-1148,Lex & Co,law,Lex & Co Site 29,Ricoh IM C3000,RICOH-C3000-BK,12000,True,True,1049.02
+LEX-1149,Lex & Co,law,Lex & Co Site 30,Ricoh MP 501SPF,RICOH-501-BK,10000,True,True,506.88
+LEX-1150,Lex & Co,law,Lex & Co Site 31,Ricoh MP 501SPF,RICOH-501-BK,10000,True,True,496.39
+LEX-1151,Lex & Co,law,Lex & Co Site 32,Ricoh IM C3000,RICOH-C3000-BK,12000,True,True,960.89
+LEX-1152,Lex & Co,law,Lex & Co Site 33,HP LaserJet M607,HP-37A-BK,11000,False,True,326.56
+LEX-1153,Lex & Co,law,Lex & Co Site 34,Ricoh IM C3000,RICOH-C3000-BK,12000,True,True,907.57
+LEX-1154,Lex & Co,law,Lex & Co Site 35,Ricoh MP 501SPF,RICOH-501-BK,10000,True,True,505.99
+LEX-1155,Lex & Co,law,Lex & Co Site 36,Ricoh MP 501SPF,RICOH-501-BK,10000,True,True,321.56
+LEX-1156,Lex & Co,law,Lex & Co Site 37,Ricoh IM C3000,RICOH-C3000-BK,12000,True,True,2053.96
+LEX-1157,Lex & Co,law,Lex & Co Site 38,Ricoh IM C3000,RICOH-C3000-BK,12000,True,True,1024.09
+LEX-1158,Lex & Co,law,Lex & Co Site 39,Ricoh IM C3000,RICOH-C3000-BK,12000,True,True,445.41
+LEX-1159,Lex & Co,law,Lex & Co Site 40,Ricoh MP 501SPF,RICOH-501-BK,10000,True,True,595.91
+TAXIFY-1160,Taxify LLP,tax,Taxify LLP Site 1,Ricoh IM C3000,RICOH-C3000-BK,12000,True,True,441.21
+TAXIFY-1161,Taxify LLP,tax,Taxify LLP Site 2,Ricoh IM C3000,RICOH-C3000-BK,12000,True,True,1064.65
+TAXIFY-1162,Taxify LLP,tax,Taxify LLP Site 3,HP LaserJet M607,HP-37A-BK,11000,False,True,663.96
+TAXIFY-1163,Taxify LLP,tax,Taxify LLP Site 4,Ricoh IM C3000,RICOH-C3000-BK,12000,True,True,476.52
+TAXIFY-1164,Taxify LLP,tax,Taxify LLP Site 5,Ricoh MP 501SPF,RICOH-501-BK,10000,True,True,608.12
+TAXIFY-1165,Taxify LLP,tax,Taxify LLP Site 6,HP LaserJet M607,HP-37A-BK,11000,False,True,474.66
+TAXIFY-1166,Taxify LLP,tax,Taxify LLP Site 7,Canon imageRUNNER 4551i,CANON-4551-BK,14000,False,True,1083.43
+TAXIFY-1167,Taxify LLP,tax,Taxify LLP Site 8,Ricoh MP 501SPF,RICOH-501-BK,10000,True,True,925.57
+TAXIFY-1168,Taxify LLP,tax,Taxify LLP Site 9,Ricoh MP 501SPF,RICOH-501-BK,10000,True,True,352.99
+TAXIFY-1169,Taxify LLP,tax,Taxify LLP Site 10,Canon imageRUNNER 4551i,CANON-4551-BK,14000,False,True,492.74
+TAXIFY-1170,Taxify LLP,tax,Taxify LLP Site 11,Ricoh MP 501SPF,RICOH-501-BK,10000,True,True,264.17
+TAXIFY-1171,Taxify LLP,tax,Taxify LLP Site 12,Canon imageRUNNER 4551i,CANON-4551-BK,14000,False,True,477.68
+TAXIFY-1172,Taxify LLP,tax,Taxify LLP Site 13,Canon imageRUNNER 4551i,CANON-4551-BK,14000,False,True,691.11
+TAXIFY-1173,Taxify LLP,tax,Taxify LLP Site 14,Ricoh MP 501SPF,RICOH-501-BK,10000,True,True,459.61
+TAXIFY-1174,Taxify LLP,tax,Taxify LLP Site 15,Ricoh IM C3000,RICOH-C3000-BK,12000,True,True,824.85
+TAXIFY-1175,Taxify LLP,tax,Taxify LLP Site 16,Ricoh IM C3000,RICOH-C3000-BK,12000,True,True,1086.21
+TAXIFY-1176,Taxify LLP,tax,Taxify LLP Site 17,Canon imageRUNNER 4551i,CANON-4551-BK,14000,False,True,722.96
+TAXIFY-1177,Taxify LLP,tax,Taxify LLP Site 18,HP LaserJet M607,HP-37A-BK,11000,False,True,758.2
+TAXIFY-1178,Taxify LLP,tax,Taxify LLP Site 19,Canon imageRUNNER 4551i,CANON-4551-BK,14000,False,True,629.25
+TAXIFY-1179,Taxify LLP,tax,Taxify LLP Site 20,Canon imageRUNNER 4551i,CANON-4551-BK,14000,False,True,2500.0
+TAXIFY-1180,Taxify LLP,tax,Taxify LLP Site 21,Canon imageRUNNER 4551i,CANON-4551-BK,14000,False,True,982.1
+TAXIFY-1181,Taxify LLP,tax,Taxify LLP Site 22,Ricoh IM C3000,RICOH-C3000-BK,12000,True,True,467.91
+TAXIFY-1182,Taxify LLP,tax,Taxify LLP Site 23,Ricoh IM C3000,RICOH-C3000-BK,12000,True,True,420.49
+TAXIFY-1183,Taxify LLP,tax,Taxify LLP Site 24,Ricoh IM C3000,RICOH-C3000-BK,12000,True,True,914.24
+TAXIFY-1184,Taxify LLP,tax,Taxify LLP Site 25,Canon imageRUNNER 4551i,CANON-4551-BK,14000,False,True,642.34
+TAXIFY-1185,Taxify LLP,tax,Taxify LLP Site 26,HP LaserJet M607,HP-37A-BK,11000,False,True,543.57
+TAXIFY-1186,Taxify LLP,tax,Taxify LLP Site 27,Ricoh IM C3000,RICOH-C3000-BK,12000,True,True,910.03
+TAXIFY-1187,Taxify LLP,tax,Taxify LLP Site 28,Ricoh MP 501SPF,RICOH-501-BK,10000,True,True,381.49
+TAXIFY-1188,Taxify LLP,tax,Taxify LLP Site 29,Ricoh MP 501SPF,RICOH-501-BK,10000,True,True,269.29
+TAXIFY-1189,Taxify LLP,tax,Taxify LLP Site 30,Ricoh MP 501SPF,RICOH-501-BK,10000,True,True,199.37
+TAXIFY-1190,Taxify LLP,tax,Taxify LLP Site 31,Canon imageRUNNER 4551i,CANON-4551-BK,14000,False,True,574.56
+TAXIFY-1191,Taxify LLP,tax,Taxify LLP Site 32,Ricoh MP 501SPF,RICOH-501-BK,10000,True,True,579.54
+TAXIFY-1192,Taxify LLP,tax,Taxify LLP Site 33,Canon imageRUNNER 4551i,CANON-4551-BK,14000,False,True,799.43
+TAXIFY-1193,Taxify LLP,tax,Taxify LLP Site 34,Ricoh MP 501SPF,RICOH-501-BK,10000,True,True,225.04
+TAXIFY-1194,Taxify LLP,tax,Taxify LLP Site 35,HP LaserJet M607,HP-37A-BK,11000,False,True,426.15
+TAXIFY-1195,Taxify LLP,tax,Taxify LLP Site 36,Canon imageRUNNER 4551i,CANON-4551-BK,14000,False,True,870.89
+TAXIFY-1196,Taxify LLP,tax,Taxify LLP Site 37,Ricoh MP 501SPF,RICOH-501-BK,10000,True,True,264.84
+TAXIFY-1197,Taxify LLP,tax,Taxify LLP Site 38,Ricoh IM C3000,RICOH-C3000-BK,12000,True,True,775.66
+TAXIFY-1198,Taxify LLP,tax,Taxify LLP Site 39,Canon imageRUNNER 4551i,CANON-4551-BK,14000,False,True,739.49
+TAXIFY-1199,Taxify LLP,tax,Taxify LLP Site 40,Ricoh IM C3000,RICOH-C3000-BK,12000,True,True,405.6

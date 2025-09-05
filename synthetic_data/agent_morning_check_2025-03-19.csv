@@ -1,0 +1,163 @@
+date,device_id,client,issues,recommendation,severity,rationale,last7d_pages
+2025-03-19,KROGER-1033,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,8 manual_bulk order(s) on spike day; no install yet.; 8 orders in last 14d without install.,4871
+2025-03-19,LEX-1321,Lex & Co,[],green,green,No anomalies detected.,7327
+2025-03-19,KROGER-1206,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,8 manual_bulk order(s) on spike day; no install yet.; 8 orders in last 14d without install.,4535
+2025-03-19,KROGER-1192,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders', 'high_usage_7d']",hold,red,14 manual_bulk order(s) on spike day; no install yet.; 14 orders in last 14d without install.; High 7d volume (10357 pages).,10357
+2025-03-19,KROGER-1088,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,10 manual_bulk order(s) on spike day; no install yet.; 10 orders in last 14d without install.,7152
+2025-03-19,KROGER-1183,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,8 manual_bulk order(s) on spike day; no install yet.; 8 orders in last 14d without install.,6570
+2025-03-19,KROGER-1226,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,13 manual_bulk order(s) on spike day; no install yet.; 14 orders in last 14d without install.,5378
+2025-03-19,KROGER-1164,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,9 manual_bulk order(s) on spike day; no install yet.; 9 orders in last 14d without install.,5025
+2025-03-19,KROGER-1227,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,11 manual_bulk order(s) on spike day; no install yet.; 11 orders in last 14d without install.,2914
+2025-03-19,KROGER-1056,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,11 manual_bulk order(s) on spike day; no install yet.; 11 orders in last 14d without install.,3235
+2025-03-19,KROGER-1133,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,16 manual_bulk order(s) on spike day; no install yet.; 16 orders in last 14d without install.,7462
+2025-03-19,KROGER-1028,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,8 manual_bulk order(s) on spike day; no install yet.; 8 orders in last 14d without install.,5828
+2025-03-19,KROGER-1130,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,8 manual_bulk order(s) on spike day; no install yet.; 8 orders in last 14d without install.,4621
+2025-03-19,KROGER-1005,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,8 manual_bulk order(s) on spike day; no install yet.; 8 orders in last 14d without install.,6504
+2025-03-19,KROGER-1279,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders', 'high_usage_7d']",hold,red,15 manual_bulk order(s) on spike day; no install yet.; 15 orders in last 14d without install.; High 7d volume (10217 pages).,10217
+2025-03-19,KROGER-1004,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,7 manual_bulk order(s) on spike day; no install yet.; 7 orders in last 14d without install.,4729
+2025-03-19,KROGER-1124,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,8 manual_bulk order(s) on spike day; no install yet.; 8 orders in last 14d without install.,6219
+2025-03-19,KROGER-1173,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,11 manual_bulk order(s) on spike day; no install yet.; 11 orders in last 14d without install.,5903
+2025-03-19,KROGER-1110,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,11 manual_bulk order(s) on spike day; no install yet.; 11 orders in last 14d without install.,3328
+2025-03-19,KROGER-1263,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,13 manual_bulk order(s) on spike day; no install yet.; 13 orders in last 14d without install.,4728
+2025-03-19,KROGER-1108,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders', 'high_usage_7d']",hold,red,7 manual_bulk order(s) on spike day; no install yet.; 7 orders in last 14d without install.; High 7d volume (14538 pages).,14538
+2025-03-19,KROGER-1165,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders', 'high_usage_7d']",hold,red,20 manual_bulk order(s) on spike day; no install yet.; 20 orders in last 14d without install.; High 7d volume (10329 pages).,10329
+2025-03-19,KROGER-1151,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,11 manual_bulk order(s) on spike day; no install yet.; 11 orders in last 14d without install.,1983
+2025-03-19,KROGER-1134,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,11 manual_bulk order(s) on spike day; no install yet.; 11 orders in last 14d without install.,2651
+2025-03-19,KROGER-1283,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,7 manual_bulk order(s) on spike day; no install yet.; 7 orders in last 14d without install.,3541
+2025-03-19,KROGER-1297,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,9 manual_bulk order(s) on spike day; no install yet.; 9 orders in last 14d without install.,6406
+2025-03-19,KROGER-1246,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,15 manual_bulk order(s) on spike day; no install yet.; 15 orders in last 14d without install.,6488
+2025-03-19,KROGER-1049,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,15 manual_bulk order(s) on spike day; no install yet.; 15 orders in last 14d without install.,5248
+2025-03-19,TAXIFY-1403,Taxify LLP,"['multiple_uninstalled_orders', 'high_usage_7d']",hold,red,3 orders in last 14d without install.; High 7d volume (11781 pages).,11781
+2025-03-19,KROGER-1176,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders', 'high_usage_7d']",hold,red,7 manual_bulk order(s) on spike day; no install yet.; 7 orders in last 14d without install.; High 7d volume (10201 pages).,10201
+2025-03-19,KROGER-1225,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,14 manual_bulk order(s) on spike day; no install yet.; 14 orders in last 14d without install.,6745
+2025-03-19,KROGER-1163,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,11 manual_bulk order(s) on spike day; no install yet.; 11 orders in last 14d without install.,3199
+2025-03-19,KROGER-1261,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,12 manual_bulk order(s) on spike day; no install yet.; 12 orders in last 14d without install.,5696
+2025-03-19,KROGER-1264,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,9 manual_bulk order(s) on spike day; no install yet.; 9 orders in last 14d without install.,7010
+2025-03-19,KROGER-1149,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,12 manual_bulk order(s) on spike day; no install yet.; 12 orders in last 14d without install.,2117
+2025-03-19,KROGER-1238,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,10 manual_bulk order(s) on spike day; no install yet.; 10 orders in last 14d without install.,4904
+2025-03-19,KROGER-1024,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,7 manual_bulk order(s) on spike day; no install yet.; 7 orders in last 14d without install.,6425
+2025-03-19,KROGER-1058,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,11 manual_bulk order(s) on spike day; no install yet.; 11 orders in last 14d without install.,3637
+2025-03-19,KROGER-1232,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,14 manual_bulk order(s) on spike day; no install yet.; 14 orders in last 14d without install.,6070
+2025-03-19,KROGER-1075,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,10 manual_bulk order(s) on spike day; no install yet.; 10 orders in last 14d without install.,5579
+2025-03-19,KROGER-1138,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,11 manual_bulk order(s) on spike day; no install yet.; 11 orders in last 14d without install.,1835
+2025-03-19,KROGER-1009,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,6 manual_bulk order(s) on spike day; no install yet.; 6 orders in last 14d without install.,8045
+2025-03-19,KROGER-1273,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,7 manual_bulk order(s) on spike day; no install yet.; 7 orders in last 14d without install.,2929
+2025-03-19,KROGER-1107,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,8 manual_bulk order(s) on spike day; no install yet.; 8 orders in last 14d without install.,4265
+2025-03-19,KROGER-1187,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,6 manual_bulk order(s) on spike day; no install yet.; 7 orders in last 14d without install.,5307
+2025-03-19,KROGER-1259,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,9 manual_bulk order(s) on spike day; no install yet.; 9 orders in last 14d without install.,8428
+2025-03-19,KROGER-1280,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,6 manual_bulk order(s) on spike day; no install yet.; 6 orders in last 14d without install.,5059
+2025-03-19,KROGER-1111,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,7 manual_bulk order(s) on spike day; no install yet.; 7 orders in last 14d without install.,4661
+2025-03-19,KROGER-1118,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,11 manual_bulk order(s) on spike day; no install yet.; 11 orders in last 14d without install.,4877
+2025-03-19,KROGER-1184,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,12 manual_bulk order(s) on spike day; no install yet.; 12 orders in last 14d without install.,4220
+2025-03-19,KROGER-1017,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,12 manual_bulk order(s) on spike day; no install yet.; 12 orders in last 14d without install.,7091
+2025-03-19,KROGER-1221,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders', 'high_usage_7d']",hold,red,17 manual_bulk order(s) on spike day; no install yet.; 17 orders in last 14d without install.; High 7d volume (14750 pages).,14750
+2025-03-19,KROGER-1258,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,11 manual_bulk order(s) on spike day; no install yet.; 11 orders in last 14d without install.,4156
+2025-03-19,KROGER-1287,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,12 manual_bulk order(s) on spike day; no install yet.; 12 orders in last 14d without install.,2544
+2025-03-19,KROGER-1157,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,12 manual_bulk order(s) on spike day; no install yet.; 12 orders in last 14d without install.,8707
+2025-03-19,KROGER-1289,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,10 manual_bulk order(s) on spike day; no install yet.; 10 orders in last 14d without install.,5615
+2025-03-19,KROGER-1272,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,16 manual_bulk order(s) on spike day; no install yet.; 16 orders in last 14d without install.,7336
+2025-03-19,KROGER-1100,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,7 manual_bulk order(s) on spike day; no install yet.; 7 orders in last 14d without install.,2851
+2025-03-19,KROGER-1291,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,9 manual_bulk order(s) on spike day; no install yet.; 9 orders in last 14d without install.,3824
+2025-03-19,KROGER-1214,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,10 manual_bulk order(s) on spike day; no install yet.; 10 orders in last 14d without install.,8143
+2025-03-19,KROGER-1244,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,12 manual_bulk order(s) on spike day; no install yet.; 12 orders in last 14d without install.,9373
+2025-03-19,KROGER-1191,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,5 manual_bulk order(s) on spike day; no install yet.; 5 orders in last 14d without install.,4708
+2025-03-19,KROGER-1143,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,4 manual_bulk order(s) on spike day; no install yet.; 4 orders in last 14d without install.,3896
+2025-03-19,KROGER-1228,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,6 manual_bulk order(s) on spike day; no install yet.; 6 orders in last 14d without install.,3905
+2025-03-19,KROGER-1038,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,8 manual_bulk order(s) on spike day; no install yet.; 8 orders in last 14d without install.,7962
+2025-03-19,KROGER-1201,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders', 'high_usage_7d']",hold,red,3 manual_bulk order(s) on spike day; no install yet.; 3 orders in last 14d without install.; High 7d volume (10474 pages).,10474
+2025-03-19,KROGER-1216,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,7 manual_bulk order(s) on spike day; no install yet.; 7 orders in last 14d without install.,3100
+2025-03-19,KROGER-1235,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,12 manual_bulk order(s) on spike day; no install yet.; 12 orders in last 14d without install.,6464
+2025-03-19,KROGER-1210,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,12 manual_bulk order(s) on spike day; no install yet.; 12 orders in last 14d without install.,3765
+2025-03-19,KROGER-1252,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,12 manual_bulk order(s) on spike day; no install yet.; 12 orders in last 14d without install.,3368
+2025-03-19,KROGER-1203,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,5 manual_bulk order(s) on spike day; no install yet.; 5 orders in last 14d without install.,3560
+2025-03-19,KROGER-1003,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,7 manual_bulk order(s) on spike day; no install yet.; 7 orders in last 14d without install.,7550
+2025-03-19,KROGER-1213,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,9 manual_bulk order(s) on spike day; no install yet.; 9 orders in last 14d without install.,5687
+2025-03-19,KROGER-1196,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,16 manual_bulk order(s) on spike day; no install yet.; 16 orders in last 14d without install.,1897
+2025-03-19,KROGER-1236,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,14 manual_bulk order(s) on spike day; no install yet.; 14 orders in last 14d without install.,6221
+2025-03-19,KROGER-1035,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,5 manual_bulk order(s) on spike day; no install yet.; 5 orders in last 14d without install.,4689
+2025-03-19,KROGER-1141,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,11 manual_bulk order(s) on spike day; no install yet.; 11 orders in last 14d without install.,7963
+2025-03-19,KROGER-1031,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,8 manual_bulk order(s) on spike day; no install yet.; 8 orders in last 14d without install.,6098
+2025-03-19,KROGER-1188,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,11 manual_bulk order(s) on spike day; no install yet.; 11 orders in last 14d without install.,3585
+2025-03-19,KROGER-1268,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,8 manual_bulk order(s) on spike day; no install yet.; 8 orders in last 14d without install.,5312
+2025-03-19,KROGER-1174,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,7 manual_bulk order(s) on spike day; no install yet.; 7 orders in last 14d without install.,4315
+2025-03-19,KROGER-1145,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,12 manual_bulk order(s) on spike day; no install yet.; 12 orders in last 14d without install.,5390
+2025-03-19,KROGER-1090,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,16 manual_bulk order(s) on spike day; no install yet.; 16 orders in last 14d without install.,5139
+2025-03-19,KROGER-1096,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,6 manual_bulk order(s) on spike day; no install yet.; 6 orders in last 14d without install.,9438
+2025-03-19,KROGER-1112,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,6 manual_bulk order(s) on spike day; no install yet.; 6 orders in last 14d without install.,6125
+2025-03-19,KROGER-1298,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,8 manual_bulk order(s) on spike day; no install yet.; 8 orders in last 14d without install.,7827
+2025-03-19,KROGER-1063,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders', 'high_usage_7d']",hold,red,10 manual_bulk order(s) on spike day; no install yet.; 10 orders in last 14d without install.; High 7d volume (13839 pages).,13839
+2025-03-19,KROGER-1046,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,7 manual_bulk order(s) on spike day; no install yet.; 7 orders in last 14d without install.,4524
+2025-03-19,KROGER-1119,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,11 manual_bulk order(s) on spike day; no install yet.; 11 orders in last 14d without install.,7978
+2025-03-19,KROGER-1022,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,12 manual_bulk order(s) on spike day; no install yet.; 12 orders in last 14d without install.,5477
+2025-03-19,KROGER-1060,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,17 manual_bulk order(s) on spike day; no install yet.; 17 orders in last 14d without install.,3414
+2025-03-19,KROGER-1071,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,3 manual_bulk order(s) on spike day; no install yet.; 3 orders in last 14d without install.,5758
+2025-03-19,KROGER-1204,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,14 manual_bulk order(s) on spike day; no install yet.; 14 orders in last 14d without install.,3298
+2025-03-19,KROGER-1142,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,6 manual_bulk order(s) on spike day; no install yet.; 6 orders in last 14d without install.,5499
+2025-03-19,KROGER-1240,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,8 manual_bulk order(s) on spike day; no install yet.; 8 orders in last 14d without install.,3972
+2025-03-19,KROGER-1032,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,16 manual_bulk order(s) on spike day; no install yet.; 16 orders in last 14d without install.,3133
+2025-03-19,KROGER-1171,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,11 manual_bulk order(s) on spike day; no install yet.; 11 orders in last 14d without install.,4320
+2025-03-19,KROGER-1271,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders', 'high_usage_7d']",hold,red,17 manual_bulk order(s) on spike day; no install yet.; 17 orders in last 14d without install.; High 7d volume (12178 pages).,12178
+2025-03-19,KROGER-1064,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,8 manual_bulk order(s) on spike day; no install yet.; 8 orders in last 14d without install.,5378
+2025-03-19,KROGER-1023,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,12 manual_bulk order(s) on spike day; no install yet.; 12 orders in last 14d without install.,9127
+2025-03-19,KROGER-1025,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,9 manual_bulk order(s) on spike day; no install yet.; 9 orders in last 14d without install.,2151
+2025-03-19,KROGER-1123,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,6 manual_bulk order(s) on spike day; no install yet.; 6 orders in last 14d without install.,4185
+2025-03-19,KROGER-1181,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,6 manual_bulk order(s) on spike day; no install yet.; 6 orders in last 14d without install.,4502
+2025-03-19,KROGER-1243,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,13 manual_bulk order(s) on spike day; no install yet.; 13 orders in last 14d without install.,3995
+2025-03-19,KROGER-1293,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,11 manual_bulk order(s) on spike day; no install yet.; 11 orders in last 14d without install.,4222
+2025-03-19,KROGER-1036,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,13 manual_bulk order(s) on spike day; no install yet.; 13 orders in last 14d without install.,3779
+2025-03-19,KROGER-1091,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,9 manual_bulk order(s) on spike day; no install yet.; 10 orders in last 14d without install.,5266
+2025-03-19,KROGER-1081,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,5 manual_bulk order(s) on spike day; no install yet.; 5 orders in last 14d without install.,9904
+2025-03-19,KROGER-1087,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders', 'high_usage_7d']",hold,red,17 manual_bulk order(s) on spike day; no install yet.; 17 orders in last 14d without install.; High 7d volume (12068 pages).,12068
+2025-03-19,KROGER-1242,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,6 manual_bulk order(s) on spike day; no install yet.; 6 orders in last 14d without install.,6573
+2025-03-19,KROGER-1274,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,9 manual_bulk order(s) on spike day; no install yet.; 9 orders in last 14d without install.,5088
+2025-03-19,KROGER-1148,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,6 manual_bulk order(s) on spike day; no install yet.; 6 orders in last 14d without install.,5766
+2025-03-19,KROGER-1001,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,11 manual_bulk order(s) on spike day; no install yet.; 11 orders in last 14d without install.,3202
+2025-03-19,KROGER-1253,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,11 manual_bulk order(s) on spike day; no install yet.; 11 orders in last 14d without install.,7852
+2025-03-19,KROGER-1265,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,13 manual_bulk order(s) on spike day; no install yet.; 13 orders in last 14d without install.,4155
+2025-03-19,KROGER-1237,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,16 manual_bulk order(s) on spike day; no install yet.; 16 orders in last 14d without install.,5710
+2025-03-19,KROGER-1277,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,7 manual_bulk order(s) on spike day; no install yet.; 7 orders in last 14d without install.,5271
+2025-03-19,KROGER-1239,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,12 manual_bulk order(s) on spike day; no install yet.; 13 orders in last 14d without install.,7581
+2025-03-19,KROGER-1013,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,10 manual_bulk order(s) on spike day; no install yet.; 10 orders in last 14d without install.,5902
+2025-03-19,KROGER-1029,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,15 manual_bulk order(s) on spike day; no install yet.; 15 orders in last 14d without install.,5450
+2025-03-19,KROGER-1007,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,8 manual_bulk order(s) on spike day; no install yet.; 8 orders in last 14d without install.,2932
+2025-03-19,KROGER-1109,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,11 manual_bulk order(s) on spike day; no install yet.; 11 orders in last 14d without install.,3394
+2025-03-19,KROGER-1185,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,12 manual_bulk order(s) on spike day; no install yet.; 12 orders in last 14d without install.,1985
+2025-03-19,KROGER-1135,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,7 manual_bulk order(s) on spike day; no install yet.; 7 orders in last 14d without install.,2995
+2025-03-19,KROGER-1202,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,7 manual_bulk order(s) on spike day; no install yet.; 7 orders in last 14d without install.,2113
+2025-03-19,KROGER-1113,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,15 manual_bulk order(s) on spike day; no install yet.; 15 orders in last 14d without install.,8427
+2025-03-19,KROGER-1014,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,9 manual_bulk order(s) on spike day; no install yet.; 9 orders in last 14d without install.,3867
+2025-03-19,KROGER-1169,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,8 manual_bulk order(s) on spike day; no install yet.; 8 orders in last 14d without install.,2762
+2025-03-19,KROGER-1248,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,5 manual_bulk order(s) on spike day; no install yet.; 5 orders in last 14d without install.,3811
+2025-03-19,KROGER-1229,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,7 manual_bulk order(s) on spike day; no install yet.; 7 orders in last 14d without install.,9321
+2025-03-19,KROGER-1020,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders', 'high_usage_7d']",hold,red,14 manual_bulk order(s) on spike day; no install yet.; 14 orders in last 14d without install.; High 7d volume (12889 pages).,12889
+2025-03-19,KROGER-1208,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,14 manual_bulk order(s) on spike day; no install yet.; 14 orders in last 14d without install.,3269
+2025-03-19,KROGER-1019,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,13 manual_bulk order(s) on spike day; no install yet.; 13 orders in last 14d without install.,2267
+2025-03-19,KROGER-1144,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,10 manual_bulk order(s) on spike day; no install yet.; 10 orders in last 14d without install.,2351
+2025-03-19,KROGER-1085,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,15 manual_bulk order(s) on spike day; no install yet.; 15 orders in last 14d without install.,4992
+2025-03-19,KROGER-1015,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,10 manual_bulk order(s) on spike day; no install yet.; 10 orders in last 14d without install.,3370
+2025-03-19,KROGER-1139,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,8 manual_bulk order(s) on spike day; no install yet.; 9 orders in last 14d without install.,7661
+2025-03-19,KROGER-1070,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders', 'high_usage_7d']",hold,red,8 manual_bulk order(s) on spike day; no install yet.; 8 orders in last 14d without install.; High 7d volume (12578 pages).,12578
+2025-03-19,KROGER-1257,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,9 manual_bulk order(s) on spike day; no install yet.; 9 orders in last 14d without install.,2709
+2025-03-19,KROGER-1262,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,11 manual_bulk order(s) on spike day; no install yet.; 11 orders in last 14d without install.,2980
+2025-03-19,KROGER-1018,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,6 manual_bulk order(s) on spike day; no install yet.; 7 orders in last 14d without install.,7061
+2025-03-19,KROGER-1230,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,14 manual_bulk order(s) on spike day; no install yet.; 14 orders in last 14d without install.,3738
+2025-03-19,KROGER-1218,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,14 manual_bulk order(s) on spike day; no install yet.; 14 orders in last 14d without install.,3708
+2025-03-19,KROGER-1008,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,10 manual_bulk order(s) on spike day; no install yet.; 10 orders in last 14d without install.,6003
+2025-03-19,KROGER-1267,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,8 manual_bulk order(s) on spike day; no install yet.; 8 orders in last 14d without install.,7537
+2025-03-19,KROGER-1047,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,8 manual_bulk order(s) on spike day; no install yet.; 8 orders in last 14d without install.,9702
+2025-03-19,KROGER-1084,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,5 manual_bulk order(s) on spike day; no install yet.; 5 orders in last 14d without install.,3690
+2025-03-19,KROGER-1106,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,7 manual_bulk order(s) on spike day; no install yet.; 7 orders in last 14d without install.,6910
+2025-03-19,KROGER-1095,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,9 manual_bulk order(s) on spike day; no install yet.; 9 orders in last 14d without install.,6549
+2025-03-19,KROGER-1010,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,17 manual_bulk order(s) on spike day; no install yet.; 17 orders in last 14d without install.,4873
+2025-03-19,KROGER-1074,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders', 'high_usage_7d']",hold,red,6 manual_bulk order(s) on spike day; no install yet.; 6 orders in last 14d without install.; High 7d volume (12864 pages).,12864
+2025-03-19,KROGER-1156,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,6 manual_bulk order(s) on spike day; no install yet.; 6 orders in last 14d without install.,3298
+2025-03-19,KROGER-1147,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,8 manual_bulk order(s) on spike day; no install yet.; 8 orders in last 14d without install.,4616
+2025-03-19,KROGER-1276,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,11 manual_bulk order(s) on spike day; no install yet.; 11 orders in last 14d without install.,4878
+2025-03-19,KROGER-1048,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,9 manual_bulk order(s) on spike day; no install yet.; 9 orders in last 14d without install.,4411
+2025-03-19,KROGER-1136,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,7 manual_bulk order(s) on spike day; no install yet.; 7 orders in last 14d without install.,3923
+2025-03-19,KROGER-1037,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders', 'high_usage_7d']",hold,red,8 manual_bulk order(s) on spike day; no install yet.; 8 orders in last 14d without install.; High 7d volume (12663 pages).,12663
+2025-03-19,KROGER-1179,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,11 manual_bulk order(s) on spike day; no install yet.; 11 orders in last 14d without install.,4946
+2025-03-19,KROGER-1115,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,17 manual_bulk order(s) on spike day; no install yet.; 17 orders in last 14d without install.,3936
+2025-03-19,LEX-1374,Lex & Co,['high_usage_7d'],check with site,yellow,High 7d volume (10668 pages).,10668
+2025-03-19,KROGER-1170,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,12 manual_bulk order(s) on spike day; no install yet.; 12 orders in last 14d without install.,4506
+2025-03-19,KROGER-1055,Kroger,"['oversupply_spike', 'multiple_uninstalled_orders']",hold,red,11 manual_bulk order(s) on spike day; no install yet.; 11 orders in last 14d without install.,5811

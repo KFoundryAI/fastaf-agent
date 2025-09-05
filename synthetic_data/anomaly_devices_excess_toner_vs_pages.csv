@@ -1,0 +1,1 @@
+device_id,mono_pages,color_pages,YIELD_BK,YIELD_C,YIELD_M,YIELD_Y,expected_BK,expected_C,expected_M,expected_Y,INST_BK,INST_C,INST_M,INST_Y,actual_total_installs,expected_total,install_to_expected_ratio
